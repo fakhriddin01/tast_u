@@ -10,7 +10,7 @@ import { Ucell } from './ucell/models/ucell.model';
       host: 'localhost',
       port: Number('5432'),
       username: 'postgres',
-      password: '3337289Fa!',
+      password: 'postgres',
       database: 'ucell',
       models: [Ucell],
       autoLoadModels: true,
